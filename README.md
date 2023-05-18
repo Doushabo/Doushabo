@@ -3,7 +3,7 @@
 ## ✨ WHO
 
 皆んさん　こんにち、Doushaboです。  
-前DGP(欲望大奖赛)参赛选手，现准备参加DR(欲望大逃杀)
+前[DGP(Desire Grand Prix | 欲望大奖赛)](https://zh.moegirl.org.cn/Desire_Grand_Prix)参赛选手，现准备参加[DR(Desire Royale | 欲望大逃杀)](https://zh.moegirl.org.cn/Desire_Royale)
 <br/>
 
 <!-- https://github.com/Doushabo -->
