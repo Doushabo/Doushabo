@@ -7,8 +7,32 @@
 
 ---
 
-<!-- https://github.com/Doushabo -->
+<!-- https://github.com/Doushabo align="left" -->
+<!--<a href="https://github.com/Doushabo">
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true"/>
+</a>
+
+<p>这里是什么地方<p/>
+---
+
+<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=compact&theme=dracula&locale=cn&hide_border=true">
+-->
+
 <a href="https://github.com/Doushabo">
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Doushabo&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+  <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true"/>
+</a>
+
+<img width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=compact&theme=dracula&locale=cn&hide_border=true">
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+<hr />
+
+
+<a href="https://github.com/CCherry07#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
+</a>
+
+<a href="https://github.com/CCherry07#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
 </a>
 
