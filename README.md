@@ -18,6 +18,16 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=compact&theme=dracula&locale=cn&hide_border=true">
 -->
 
+<!--<a href="https://github.com/CCherry07#gh-light-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
+</a>
+
+<a href="https://github.com/CCherry07#gh-dark-mode-only">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
+</a>
+
+---
+
 <a href="https://github.com/Doushabo">
   <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true"/>
 </a>
@@ -25,14 +35,30 @@
 <img width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=compact&theme=dracula&locale=cn&hide_border=true">
 
 <br /><br /><br /><br /><br /><br /><br /><br />
-<hr />
+<hr />-->
 
-
-<a href="https://github.com/CCherry07#gh-light-mode-only">
+<a href="https://github.com/Doushabo">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
 </a>
 
-<a href="https://github.com/CCherry07#gh-dark-mode-only">
+
+<a href="https://github.com/Doushabo">
+
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=donut&theme=dracula&locale=cn&hide_border=true" width="800"> | <img src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true" width="1200"> |
+</a>
+
+<!--<a href="https://github.com/Doushabo">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
 </a>
+
+
+<a href="https://github.com/Doushabo">
+
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doushabo&theme=dracula" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doushabo&theme=dracula" width="800"> |
+  
+</a>-->
 
