@@ -38,15 +38,14 @@
 <hr />-->
 
 <a href="https://github.com/Doushabo">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
-</a>
-
-
-<a href="https://github.com/Doushabo">
 
 | Top Language by Repo                                         | My Stats                                                     |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------- |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=donut&theme=dracula&locale=cn&hide_border=true" width="800"> | <img src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true" width="1200"> |
+</a>
+
+<a href="https://github.com/Doushabo">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
 </a>
 
 <!--<a href="https://github.com/Doushabo">
