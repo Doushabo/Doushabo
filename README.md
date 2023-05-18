@@ -5,7 +5,8 @@
 <h3 align="center">"さあ、ここからがハイライトだ!"</h3>
 
 皆んさん　こんにちは、Doushaboです。  
-前[DGP(Desire Grand Prix | 欲望大奖赛)](https://zh.moegirl.org.cn/Desire_Grand_Prix)参赛选手，现准备参加[DR(Desire Royale | 欲望大逃杀)](https://zh.moegirl.org.cn/Desire_Royale)
+前[DGP(Desire Grand Prix | 欲望大奖赛)](https://zh.moegirl.org.cn/Desire_Grand_Prix)参赛选手，现准备参加[DR(Desire Royale | 欲望大逃杀)](https://zh.moegirl.org.cn/Desire_Royale)  
+一个狂热[乃爱](https://mzh.moegirl.org.cn/姬坂乃爱)单推人
 
 <img alt="Email" src="https://img.shields.io/badge/email-2824868962%40qq.com-blue">
 
