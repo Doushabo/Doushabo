@@ -13,12 +13,12 @@
 
 ---
 
-<div>
-     <div style="flex: 1;">
+<div style="width:400">
+     <div style="width:800">
           <h4>Stacks</h4>
           <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
      </div>
-     <div style="flex: 1;">
+     <div style="width:800">
           <h4>sowf</h4>
           <img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">
       </div>
