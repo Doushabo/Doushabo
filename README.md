@@ -13,6 +13,9 @@
 
 ---
 
+<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
+<img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">
+
 <!-- https://github.com/Doushabo align="left" -->
 <!--<a href="https://github.com/Doushabo">
   <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true"/>
