@@ -13,8 +13,19 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
-<img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">
+<div>
+     <div style="flex: 1;">
+          <h4>Stacks</h4>
+          <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
+     </div>
+     <div style="flex: 1;">
+          <h4>sowf</h4>
+          <img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">
+      </div>
+</div>
+
+<!--<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
+<img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">-->
 
 <!-- https://github.com/Doushabo align="left" -->
 <!--<a href="https://github.com/Doushabo">
