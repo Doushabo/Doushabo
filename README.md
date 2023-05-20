@@ -34,54 +34,10 @@
 
 ---
 
-<!--<div style="width:400">
-     <div style="width:800">
-          <h4>Stacks</h4>
-          <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
-     </div>
-     <div style="width:800">
-          <h4>sowf</h4>
-          <img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">
-      </div>
-</div>-->
-
 |**Stacks**|&nbsp;&nbsp;&nbsp;&nbsp;|**Studying**|
 | :------------------------: |:---:|:----------------------------: |
 |<img width="400" src="https://skillicons.dev/icons?i=js,html,css,vue,java,md,idea,github&theme=light&perline=8">| |<img src="https://skillicons.dev/icons?i=linux,gradle,ts,vim&theme=light&perline=8">|
 ---
-
-<!--<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
-<img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">-->
-
-<!-- https://github.com/Doushabo align="left" -->
-<!--<a href="https://github.com/Doushabo">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true"/>
-</a>
-
-<p>这里是什么地方<p/>
----
-
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=compact&theme=dracula&locale=cn&hide_border=true">
--->
-
-<!--<a href="https://github.com/CCherry07#gh-light-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
-</a>
-
-<a href="https://github.com/CCherry07#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
-</a>
-
----
-
-<a href="https://github.com/Doushabo">
-  <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=Doushabo&theme=dracula&locale=cn&hide_border=true"/>
-</a>
-
-<img width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doushabo&layout=compact&theme=dracula&locale=cn&hide_border=true">
-
-<br /><br /><br /><br /><br /><br /><br /><br />
-<hr />-->
 
 <a href="https://github.com/Doushabo">
 
@@ -93,17 +49,3 @@
 <a href="https://github.com/Doushabo">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
 </a>
-
-<!--<a href="https://github.com/Doushabo">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doushabo&theme=dracula" width="100%">
-</a>
-
-
-<a href="https://github.com/Doushabo">
-
-| Top Language by Repo                                         | My Stats                                                     |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doushabo&theme=dracula" width="800"> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doushabo&theme=dracula" width="800"> |
-  
-</a>-->
-
