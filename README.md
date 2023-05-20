@@ -36,7 +36,6 @@
 |**Stacks**|&nbsp;&nbsp;&nbsp;&nbsp;|**Studying**|
 | :------------------------: |:---:|:----------------------------: |
 |<img width="400" src="https://skillicons.dev/icons?i=js,html,css,vue,java,md,idea,github&theme=light&perline=8">| |<img src="https://skillicons.dev/icons?i=linux,gradle,ts,vim&theme=light&perline=8">|
----
 
 <a href="https://github.com/Doushabo">
 
