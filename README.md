@@ -26,20 +26,9 @@
 
 |**Stacks**|**Studying**|
 | ------------------------ | ---------------------------- |
-|<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md,idea,github&theme=light&perline=13">|<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md,idea,github&theme=light&perline=13">|
+|<img width="400" src="https://skillicons.dev/icons?i=js,html,css,vue,java,md,idea,github,github&theme=light&perline=8">|<img src="https://skillicons.dev/icons?i=linux,gradle,ts,vim&theme=light&perline=8">|
 
 ---
-
-<div dir="auto" style="display: flex; justify-content: space-around">
-     <div>
-        <h3 align="center">Stacks</h3>
-        <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5" />
-    </div>
-    <div>
-        <h3 align="center">Stacks</h3>
-        <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5" />
-    </div>
-</div>
 
 <!--<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
 <img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">-->
