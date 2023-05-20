@@ -13,7 +13,7 @@
 
 ---
 
-<div style="width:400">
+<!--<div style="width:400">
      <div style="width:800">
           <h4>Stacks</h4>
           <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
@@ -22,6 +22,23 @@
           <h4>sowf</h4>
           <img src="https://skillicons.dev/icons?i=idea,vscode,github&theme=light&perline=5">
       </div>
+</div>-->
+
+|**Stacks**|**Studying**|
+| ------------------------ | ---------------------------- |
+|<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md,idea,github&theme=light&perline=13">|<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md,idea,github&theme=light&perline=13">|
+
+---
+
+<div dir="auto" style="display: flex; justify-content: space-around">
+     <div>
+        <h3 align="center">Stacks</h3>
+        <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5" />
+    </div>
+    <div>
+        <h3 align="center">Stacks</h3>
+        <img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5" />
+    </div>
 </div>
 
 <!--<img src="https://skillicons.dev/icons?i=js,html,css,vue,java,md&theme=light&perline=5">
