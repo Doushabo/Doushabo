@@ -5,7 +5,8 @@
 <h3 align="center">「日々私たち　が過ごしている日常は、実はは、奇跡の連続　なのかもしれない」</h3>
 
 皆んさん　こんにちは、Doushaboです。  
-前[DGP(Desire Grand Prix | 欲望大奖赛)](https://zh.moegirl.org.cn/Desire_Grand_Prix)参赛选手，现准备参加[DR(Desire Royale | 欲望大逃杀)](https://zh.moegirl.org.cn/Desire_Royale)  
+现在在[斯托马克公司](https://zh.moegirl.org.cn/%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%ABGavv#.E6.96.AF.E6.89.98.E9.A9.AC.E5.85.8B.E7.A4.BE)当临时工，为了能吃到黑暗零食啊啊啊啊~~~
+
 一个狂热[乃爱](https://mzh.moegirl.org.cn/姬坂乃爱)单推人
 
 <img alt="Email" src="https://img.shields.io/badge/email-2824868962%40qq.com-blue">
